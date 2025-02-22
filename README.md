@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/milankvcs/milankvcs/output/snake.svg" alt="Snake animation" />
-
 ###
